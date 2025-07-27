@@ -7,7 +7,7 @@ A simple web application which uses Machine Learning algorithm to predict the he
   
 **A Demo of the Web App :**
 
-![Heart_disease]()
+![Heart_disease](https://github.com/mesumitkumar/Heart-disease-prediction/blob/main/Readme_resources/heart_disease.gif)
  
  
  ### Technical Aspect
